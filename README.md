@@ -1,6 +1,5 @@
-- 👋 Olá, seja bem vindo ao meu github
-- 👀 Me interesso por análise e ciência de dados no geral.
-- 🌱 Minha ênfase de aprendizado atual é SQL, Power BI e Python.
+- welcome to my github!
+- still a work in progress ..
 - 📫 https://www.linkedin.com/in/eduardo-guarienti-618174239/
 
 <!---
